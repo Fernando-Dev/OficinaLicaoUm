@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oficina Licao Um</string>
+    <string name="listar_pedidos">Lista de Pedidos</string>
+    <string name="pedido">Pedido</string>
+    <string name="limpar_pedidos">Limpar Lista de Pedidos</string>
+    <string name="moeda_real">R$</string>
+
+</resources>
